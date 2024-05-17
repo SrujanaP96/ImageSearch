@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.box {
+  list-style-type: none;
+  transition: 1s;
+}
+.img {
+  width: 450px;
+  height: 400px;
+  margin: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.box:hover {
+  transform: scale(1.1);
+  z-index: 2;
+}

@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.tab-item {
+  background-color: transparent;
+  margin-top: 20px;
+  padding: 10px;
+  list-style-type: none;
+  margin-right: 0px;
+}
+
+.tab-button {
+  background-color: lightskyblue;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  border: transparent;
+  height: 35px;
+  width: 90px;
+}

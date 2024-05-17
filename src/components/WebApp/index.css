@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.app-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.images-con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.input-box {
+  background-color: white;
+  height: 35px;
+  width: 250px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.button1 {
+  background-color: white;
+  color: black;
+  margin: 20px;
+  height: 30px;
+  width: 120px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.con {
+  display: flex;
+  justify-content: center;
+}
+.tabs-container {
+  display: flex;
+  flex-direction: row;
+  margin: 12px;
+}
+.head {
+  color: blue;
+}
